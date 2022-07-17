@@ -5,7 +5,7 @@ In this project, I have implemented Model Predictive Controller for the Udacity'
 ### Demo 
 [![Watch the video](https://img.youtube.com/vi/9rlBO7X-izA/maxresdefault.jpg)](https://youtu.be/9rlBO7X-izA)
 
-> :information_source: 
+> :information_source: Please click to play the demo video!
 * The yellow line on the track represents the global plan (waypoints) that needs to be tracked. 
 * The pink line shows the curve fitted for given waypoints using cubic polynomial and QR decomposition method.
 * The green line shows the predicition horizon at each timestep.
