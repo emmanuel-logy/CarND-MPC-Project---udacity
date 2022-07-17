@@ -1,4 +1,4 @@
-## Overvie
+## Overview
 In this project, I have implemented Model Predictive Controller for the Udacity's self-driving car simulated on Unity 3D.
 
 ---
