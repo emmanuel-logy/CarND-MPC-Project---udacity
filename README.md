@@ -1,3 +1,29 @@
+## Overvie
+In this project, I have implemented Model Predictive Controller for the Udacity's self-driving car simulated on Unity 3D.
+
+---
+### Demo 
+[![Watch the video](https://img.youtube.com/vi/https://youtu.be/9rlBO7X-izA/default.jpg)](https://youtu.be/9rlBO7X-izA)
+
+> :information_source: 
+* The yellow line on the track represents the global plan (waypoints) that needs to be tracked. 
+* The pink line shows the curve fitted for given waypoints using cubic polynomial and QR decomposition method.
+* The green line shows the predicition horizon at each timestep.
+
+
+
+---
+### MPC Tuning 
+<figure>
+    <img src="media/mpc_tuning.png" height="360" width="672">
+</figure>
+
+> :information_source: For full sized picture of each graph, please click [here.](./media/tuning).
+
+
+---
+The rest of the file is default content given by Udacity.
+
 # Deprecated Repository
 This repository is deprecated. Currently enrolled learners, if any, can: 
 - Utilize the https://knowledge.udacity.com/ forum to seek help on content-specific issues.
