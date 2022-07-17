@@ -3,7 +3,7 @@ In this project, I have implemented Model Predictive Controller for the Udacity'
 
 ---
 ### Demo 
-[![Watch the video](https://img.youtube.com/vi/https://youtu.be/9rlBO7X-izA/default.jpg)](https://youtu.be/9rlBO7X-izA)
+[![Watch the video](https://img.youtube.com/vi/9rlBO7X-izA/default.jpg)](https://youtu.be/9rlBO7X-izA)
 
 > :information_source: 
 * The yellow line on the track represents the global plan (waypoints) that needs to be tracked. 
